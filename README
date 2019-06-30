@@ -1,3 +1,0 @@
-Container with 1.87 version of cppcheck, see https://github.com/danmar/cppcheck
-
-TODO Use alpine (got a lot of library errors at first try)
